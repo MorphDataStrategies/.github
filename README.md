@@ -21,8 +21,6 @@ These are layers of one system, not separate services.
 - **Built, documented, observable, and yours.** Nothing is a black box.
 - **People keep judgment.** Agents take the repetitive work. Commercial decisions stay with your team.
 
-We aren't a marketing agency or cold email agency. If you are looking to 
-
 ## Get in touch
 
-[Our website(https://www.morphdatastrategies.com/)]
+[Our website](https://www.morphdatastrategies.com/)
